@@ -1,0 +1,7 @@
+.env
+*.parquet
+*.json
+*.pdf
+jupyter.ipynb
+try.slides.html
+.ipynb_checkpoints
